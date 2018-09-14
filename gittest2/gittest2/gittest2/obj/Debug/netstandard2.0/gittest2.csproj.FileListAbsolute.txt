@@ -1,0 +1,12 @@
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\bin\Debug\netstandard2.0\gittest2.deps.json
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\bin\Debug\netstandard2.0\gittest2.dll
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\bin\Debug\netstandard2.0\gittest2.pdb
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.csprojAssemblyReference.cache
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.csproj.CoreCompileInputs.cache
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.AssemblyInfoInputs.cache
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.AssemblyInfo.cs
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.dll
+C:\Users\Vason\source\repos\gittest2\gittest2\gittest2\obj\Debug\netstandard2.0\gittest2.pdb
